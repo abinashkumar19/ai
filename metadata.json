@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI Mock Interviewer",
+  "description": "A high-fidelity AI-powered mock interview platform that uses the Gemini Live API to conduct realistic 25-minute technical interviews based on your resume and projects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
